@@ -6,7 +6,7 @@
     "title": "ALAT by Wema",
 	"filename": "alat_by_wema",
 	"category": "Banking / Financial Services"
-}, {
+} {
     "title": "Mainstreet Bank",
 	"filename": "mainstreet_bank",
 	"category": "Banking / Financial Services"
@@ -30,7 +30,13 @@
 	"title": "Julius Berger",
 	"filename": "julius_berger",
 	"category": "Ecommerce / Construction / Real Estate"
-}, {
+}, 
+{
+	"title": "Zikoko",
+	"filename": "zikoko_purple logo",
+	"category": "Media"
+},
+{
 	"title": "Zenith Bank",
 	"filename": "zenith_bank",
 	"category": "Banking / Financial Services"
